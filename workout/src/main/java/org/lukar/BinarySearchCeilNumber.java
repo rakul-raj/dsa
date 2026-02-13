@@ -6,7 +6,7 @@ public class BinarySearchCeilNumber {
 
         int[] arr = {1, 3, 4, 5, 8, 11, 34, 65, 88, 91, 99};
 
-        int target = 89;
+        int target = 89 ;
 
         int start = 0;
         int end = arr.length - 1;
